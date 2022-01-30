@@ -705,7 +705,7 @@
 		max-width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: e6fffa;
+		background: #e6fffa;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
@@ -734,7 +734,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em e6fffa;
+				box-shadow: 0 0 0 1.5em #e6fffa;
 			}
 
 			#main .avatar:before {
